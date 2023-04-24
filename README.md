@@ -1,6 +1,6 @@
 # Api-Lanche.on.net
 
-API desenvolvida con  node.js, mongoDb e mongosse.
+API desenvolvida com: Nodejs, MongoDb e Mongosse.
 
 ## Project setup
 ```
