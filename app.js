@@ -14,7 +14,7 @@ mongoose.connect(db.mongoURI, { useNewUrlParser: true });
 // Carregar as rotas
 const ingredientesRoutes = require('./src/routes/ingredientesRoutes');
 const acompanhamentosRoutes = require('./src/routes/acompanhamentosRoutes');
-const statusRoutes = require('./src/routes/statusRoutes');
+const statusRoutes = require('../src/routes/statusRoutes');
 const pedidosRoutes = require('./src/routes/pedidosRoutes');
 const combosRoutes = require("./src/routes/combosRoutes")
 
