@@ -7,8 +7,8 @@ API desenvolvida com: Nodejs, MongoDb e Mongosse.
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start backend
 ```
-npm start
+json-server --watch db.json --port 3001
 ```
 
