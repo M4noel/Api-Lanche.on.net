@@ -1,0 +1,13 @@
+Gostaria de compartilhar um projeto que desenvolvi recentemente, muito semelhante ao desafio proposto na vaga. Nesse projeto, utilizei tecnologias como Vue.js, Node.js e MongoDB para criar uma aplicação completa e funcional.
+
+O cerne da aplicação foi desenvolvido utilizando o Vue.js, um framework JavaScript progressivo que permite a criação de interfaces de usuário dinâmicas e envolventes. Através da construção de componentes reutilizáveis e do gerenciamento de estado eficiente com Vuex, fui capaz de oferecer uma experiência de usuário suave e responsiva. O Vue Router também foi empregado para criar uma navegação fluida e organizada dentro da aplicação.
+
+Para atender às demandas do back-end, desenvolvi uma API robusta utilizando Node.js. Através da estrutura MVC (Model-View-Controller), consegui manter o código organizado e facilmente escalável. As rotas RESTful foram cuidadosamente implementadas, permitindo a comunicação entre o front-end e o banco de dados.
+
+Falando em banco de dados, optei pelo MongoDB, um banco de dados NoSQL altamente flexível e escalável. Através da biblioteca Mongoose, pude modelar os dados de forma eficiente e realizar operações no banco de dados com facilidade.
+
+Fico animado em compartilhar que o projeto já está disponível no repositório GitHub: https://github.com/M4noel/Lanche-On-Net. Lá você encontrará o código-fonte completo da aplicação, juntamente com informações detalhadas sobre como executá-la em seu próprio ambiente de desenvolvimento.
+
+O Projeto é uma solução para um sistema de gerenciamento de pedidos de lanchonetes, o foco desse programa foi atender uma hamburgueria.
+
+E esse é o Repo só da api https://github.com/M4noel/Api-Lanche.on.net
